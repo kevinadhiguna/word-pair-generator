@@ -2,15 +2,21 @@
 
 An application that generates a bunch of random paired words which enables users to save favorite words as well.
 
-## Getting Started
+## Demo
+Word Pair Generator app provides many word pairs. <br>
+You can also tap the heart icon to save word pairs that you like. Then this app provides you a list of your favorite word pairs : <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/word-pair-generator/master/demo/1.list.png" width="45%"></img> 
+<img src="https://raw.githubusercontent.com/kevinadhiguna/word-pair-generator/master/demo/2.saved-wordpairs.png" width="45%"></img>
 
-This project is a starting point for a Flutter application.
+## More :
+
+This project is powered by Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+For help getting started with Flutter, view 
+[Flutter online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
