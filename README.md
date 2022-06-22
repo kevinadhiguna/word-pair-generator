@@ -21,4 +21,8 @@ For help getting started with Flutter, view
 [Flutter online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Reference
+
+- [Flutter Crash Course - Traversy Media](https://youtu.be/1gDhl4leEzA)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/word-pair-generator)](https://github.com/kevinadhiguna)
